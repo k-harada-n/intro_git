@@ -2,3 +2,4 @@ gitgitgitgit
 terminal
 git add
 git commit
+git rm
