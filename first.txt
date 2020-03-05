@@ -1,2 +1,4 @@
-gitの練習
-ターミナルの練習
+gitgitgitgit
+terminal
+git add
+git commit
